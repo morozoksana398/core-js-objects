@@ -18,7 +18,7 @@
  *    shallowCopy({}) => {}
  */
 function shallowCopy(/* obj */) {
-  throw new Error('Not implemented');
+  throw new Error('Not implemented ...');
 }
 
 /**
